@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Ignore VS Code settings (optional)
+.vscode/
