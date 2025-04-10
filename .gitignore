@@ -15,3 +15,6 @@ __pycache__/
 
 # Ignore VS Code settings (optional)
 .vscode/
+
+.Rhistory
+.env
